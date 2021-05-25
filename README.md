@@ -6,7 +6,7 @@ When using npm, it is often the case that we aren't familiar with _all_ of the
 code in the dependency tree. Building modern JavaScript applications relies on
 our ability to use the tools built for us by others. As it turns out, most of
 those tools are _also_ built using _other people's_ tools. One package may be
-used in another, which is used in another, and another, and so on...
+used in another, which is used in another, and another, and so on..
 
 Using npm, we download specific packages of code. If those packages have
 dependencies, the dependencies are also downloaded in a recursive manner. For
