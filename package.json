@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-rcdd_202103_irq_few",
+  "version": "1.0.0",
+  "description": "hu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusra-hub/npm-lab-rcdd_202103_irq_few.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusra-hub/npm-lab-rcdd_202103_irq_few/issues"
+  },
+  "homepage": "https://github.com/yusra-hub/npm-lab-rcdd_202103_irq_few#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
